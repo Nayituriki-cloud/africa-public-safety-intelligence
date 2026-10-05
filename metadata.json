@@ -1,0 +1,6 @@
+{
+  "name": "Africa Public Safety Intelligence Platform",
+  "description": "Africa-first sovereign public safety platform for authorized law-enforcement agencies, official wanted-person databases, citizen tip triage, cross-border cooperation, and multilingual mission workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
